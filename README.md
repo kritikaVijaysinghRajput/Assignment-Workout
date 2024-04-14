@@ -27,6 +27,8 @@ It correctly bundles React in production mode and optimizes the build for the be
 The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
 
+Deploy link : https://assignment-workout.vercel.app/
+
 name: Kritika Vijaysingh Rajput
 email : kritikarajput203@gmail.com
 
